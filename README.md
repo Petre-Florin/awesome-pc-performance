@@ -14,6 +14,7 @@ Whether you're building a new PC, diagnosing a bottleneck, or chasing more FPS �
 - [Bottleneck Calculator](https://bottleneck.tech-latest.com) – Check if your CPU or GPU is limiting system performance. Includes severity level, resolution impact, visual bar charts, and upgrade suggestions.
 - [PC Builds Bottleneck Calculator](https://pc-builds.com/calculator/) – Input CPU and GPU to get a quick bottleneck estimation with FPS tips.
 - [How Many Bottlenecks?](https://howmanybottlenecks.com/) – Lightweight bottleneck analyzer with a clean UI.
+- [RAM Bottleneck Checker](https://sidebuild.pages.dev/) – Finds out if more RAM will actually help your setup or if something else is the real bottleneck, based on your usage and symptoms.
 
 ---
 
